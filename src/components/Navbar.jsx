@@ -58,7 +58,7 @@ export default function Navbar() {
 
       {/* Mobile Menu Dropdown */}
       {isOpen && (
-        <div className="md:hidden bg-[#0a0a0a] border-t border-gray-800">
+        <div className="bg-gradient-to-bl from-black to-[#6d6d6d] absolute top-20 right-0 mx-4 my-2 w-[140px] h-[193px] rounded-xl">
           <ul className="flex flex-col items-center py-4 space-y-4 text-sm">
             <li>
               <a href="#home" onClick={handleLinkClick} className="hover:text-blue-400">
