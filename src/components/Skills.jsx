@@ -29,7 +29,7 @@ export default function Skills() {
         </div>
 
         <div className="bg-[#111] border border-gray-800 p-4 rounded-lg hover:border-blue-500 transition-colors">
-          <p className="text-sm sm:text-base font-medium">TailwindCSS</p>
+          <p className="text-sm sm:text-base font-medium mt-2.5">TailwindCSS</p>
         </div>
 
         <div className="bg-[#111] border border-gray-800 p-4 rounded-lg hover:border-blue-500 transition-colors">
